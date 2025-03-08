@@ -1,1 +1,2 @@
 Git helps in version control, collaboration, and tracking changes efficiently. 
+Git branches allow parallel development without affecting the main codebase. 
